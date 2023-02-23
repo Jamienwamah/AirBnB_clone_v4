@@ -265,4 +265,4 @@ GitHub repository: AirBnB_clone_v4
 File: web_dynamic/4-hbnb.py, web_dynamic/templates/4-hbnb.html, web_dynamic/static/scripts/4-hbnb.js
   
 Copyright © 2023 ALX, All rights reserved.
-IKECHUKWU
+IKECHUKWU ARINZE
